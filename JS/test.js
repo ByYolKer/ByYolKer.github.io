@@ -1,6 +1,6 @@
 'use strict';
 let videos = document.getElementById('myVideo');
-  
+
 
 
 // fonction : affichage d'une image dans un div
@@ -45,4 +45,4 @@ function ShowBigTexte2(divId){
   // imageNom : chemin + nom de la grande image
   // on met l'image dans le div
   document.getElementById(divId).innerHTML = '<h style="font-size: 100%;">aurejd33@gmail.com</h>'    
-}	
+}	 

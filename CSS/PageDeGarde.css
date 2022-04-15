@@ -99,7 +99,7 @@ header a svg {
     display: flex;
     position: absolute;
     top: 13%;
-    left: 41%;
+    left: 43%;
     color: white;
     font-family: Chakra Petch;
    height: 17%;
@@ -115,7 +115,7 @@ header a svg {
     display: flex;
     position: absolute;
     top: 65%;
-    left: 42%;
+    left: 43%;
     color: white;
     font-family: Chakra Petch;
    height: 17%;
@@ -237,7 +237,6 @@ header a svg {
     padding: 0 30px;
     line-height: 1.7;
   }
-
 */
 
 
@@ -393,7 +392,6 @@ header div.menu-links a#login.active {
 
 body, html {
     /*background:url('testFOND.jpg');
-
     */
 
     background-color: #b784a7 ;
